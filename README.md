@@ -1,0 +1,1 @@
+We evaluate the performance of publicly available LLMs in open-domain event extraction from documents, where the LLMs are instructed using their corresponding chat template to extract the 5Ws of the main event described in documents under zero- and five-shot prompting.
